@@ -1,0 +1,1 @@
+(English:1.3111,(Danish:0.8000,Danish_Fjolde:1.2000):3.2889,(Old_Norse:0.4778,(Faroese:0.0000,Icelandic_St:0.0000):1.1889):0.6259);

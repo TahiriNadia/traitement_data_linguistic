@@ -1,0 +1,1 @@
+(Dutch_List:2.1875,(Tadzik:7.9167,Swedish:0.9583):0.3125,(English:1.4286,Frisian:1.4286):0.1339);

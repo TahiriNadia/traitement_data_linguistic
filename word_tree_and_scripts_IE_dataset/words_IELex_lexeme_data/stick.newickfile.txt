@@ -1,0 +1,1 @@
+(Norwegian:0.1100,(Danish:0.0000,(Frisian:0.0000,Dutch_List:0.0000):0.0000):0.0900,((Danish_Fjolde:0.1356,Stavangersk:0.0642):1.5355,(German:0.2667,(English:1.2857,Gutnish_Lau:0.7143):0.3334):1.4867):0.5571);

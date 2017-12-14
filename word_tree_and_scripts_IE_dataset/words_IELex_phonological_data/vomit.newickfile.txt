@@ -1,0 +1,1 @@
+((French:0.6403,(English:1.0695,((Greek_Mod:1.8354,Ossetic:1.7944):0.6736,(Iron_Osse:0.0000,Digor_Oss:0.0000):2.9615):1.1030):0.3693):0.6463,(Assamese:0.2655,Bihari:1.9745):1.5447,((Catalan:0.9357,Spanish:0.5737):0.1581,(Portugues:0.2646,Italian:0.6356):0.4571):0.5127);

@@ -1,0 +1,1 @@
+(Dutch_Lis:0.0000,(Danish_Fj:0.0000,(Gutnish_L:0.7500,(Danish:0.2250,English:2.6750):0.7000):2.1500):0.0000,(German:0.0000,(Frisian:0.0000,(F2risian:0.0000,(Norwegian:0.0000,Stavanger:0.0000):0.0000):0.0000):0.0000):0.0000);
