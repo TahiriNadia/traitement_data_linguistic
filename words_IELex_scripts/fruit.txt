@@ -1,0 +1,5 @@
+French	fruit	fʀɥi
+English	fruit	fru:t
+Italian	frutto	'frutto
+German	frucht	fruxt
+Russian frukt	frukt

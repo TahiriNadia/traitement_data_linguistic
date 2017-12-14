@@ -1,0 +1,14 @@
+German	baŭx
+English	bɛlɪ
+Gutnish_Lau	bɛuk
+Dutch_List	bœyk
+Old_Irish	bolg
+Danish	b̥uˀ
+Swedish	bʉ:k
+Stavangersk	bʉːɡ
+Norwegian	bʉːk
+Old_Swedish	ˈbuːker
+Icelandic_St	ˈb̥uːkʰʏr
+Faroese	ˈb̥uːkʊɹ
+Danish_Fjolde	buɡ
+Frisian	buk

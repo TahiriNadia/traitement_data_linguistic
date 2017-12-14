@@ -1,0 +1,1 @@
+(Portugues:0.7042,(English:2.1292,(Catalan:1.4312,French:0.8087):0.3758):1.0022,(Spanish:0.1088,Italian:0.6913):0.6008);

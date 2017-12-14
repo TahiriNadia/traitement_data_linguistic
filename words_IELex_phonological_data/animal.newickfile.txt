@@ -1,0 +1,1 @@
+(Italian:0.7027,((Catalan:0.5897,(English:0.1776,Portugues:0.0426):0.1501):0.0480,(Spanish:0.0001,French:0.0000):0.1218):0.1858,((Brazilian:0.8577,(Old_Irish:3.2393,(Assamese:0.0001,Oriya:0.0001):3.7302):1.0524):0.6099,(Cornish:0.1575,Breton_St:0.0625):1.6352):0.4848);
