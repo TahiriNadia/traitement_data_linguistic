@@ -1,7 +1,7 @@
 These scripts calculate a weighted and normalized version of the 
 Levenshtein distance and the SCA phonetical distance.
 
- Authors: Etienne Lord, Alix Boc, and Vladimir Makarenkov.
+ Authors: V. Makarenkov lab.
  University of Quebec at Montreal
  May 2015
 
