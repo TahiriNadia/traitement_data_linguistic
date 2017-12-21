@@ -1,0 +1,148 @@
+Persian Languages
+
+MIN: -0.0
+ALPHAMIN: 0.15
+
+(Panjabi_ST, Lahnda) is Hybrid of (Romani) and (Hindi) 
+with degree of hybridization 0.156684 and LH= 26.500000
+
+(Nepali_List, Khaskura) is Hybrid of (Kashmiri) and (Hindi) 
+with degree of hybridization 0.450938 and LH= 42.000000
+
+---------------------------
+
+Sanskrit Languages
+
+MIN: 0.0
+ALPHAMIN: 0.15
+
+(Wakhi) is Hybrid of (Tadzik) and (Ossetic) 
+with degree of hybridization 0.212770 and LH= 28.000000
+
+
+
+---------------------------
+Germanic Languages
+
+Min 0
+alphaMin 0.1
+
+(Sranan) is Hybrid of (Penn_Dutch) and (English) 
+with degree of hybridization 0.503514 and LH= 39.000000
+
+(Frisian) is Hybrid of (Dutch_List, Afrikaans, Flemish) and (English) 
+with degree of hybridization 0.712821 and LH= 25.500000
+
+(Riksmal) is Hybrid of (Icelandic_ST) and (Danish) 
+with degree of hybridization 0.395715 and LH= 15.000000
+
+
+-----------------------
+
+West-Germanic Languages
+
+MIN: 0
+ALPHAMIN: 0.25
+
+(s25) is Hybrid of (s38) and (s24) 
+with degree of hybridization 0.279732 and LH= 16.000000
+
+
+------------------------
+
+Slavic Languages
+
+
+MIN: -0.01
+ALPHAMIN: 0.2
+
+
+(Lusatian_L, Lusatian_U) is Hybrid of (Czech) and (Polish) 
+with degree of hybridization 0.460265 and LH= 27.500000
+
+
+with s43 to s51.
+
+---------------------
+
+
+Latin Languages
+
+MIN: 1.0
+ALPHAMIN: 0.15
+
+(Provencal) is Hybrid of (French,French_Creole_C, French_Creole_D ) and (Catalan) 
+with degree of hybridization 0.760750 and LH= 22.250000
+
+(Catalan) is Hybrid of (French, Walloon,French_Creole_C, French_Creole_D) and (Spanish, Portuguese, Brazilian) 
+with degree of hybridization 0.221014 and LH= 41.968750
+
+-------------------
+
+
+MIN: -0.0
+ALPHAMIN: 0.2
+
+(english) is Hybrid of (Dutch_List, Afrikaans,Flemish) and (french) 
+with degree of hybridization 0.757570 and LH= 42.750000
+
+with
+
+French 01\
+Walloon 02\
+French_Creole_C 03\
+French_Creole_D 04\
+Spanish 05\
+Portuguese 06\
+Brazilian 07 \
+German_ST 08\
+Penn_Dutch 09\
+Dutch_List 10\
+Afrikaans 11\
+Flemish 12\
+English 13
+
+----------------
+
+MIN: 0.0
+ALPHAMIN: 0.1
+
+(Breton_List, Breton_SE, Breton_ST) is Hybrid of (Welsh_N) and (Walloon) 
+with degree of hybridization 0.874600 and LH= 40.750000
+
+with
+
+Irish_A 01
+Irish_B 02
+Welsh_N 03
+Welsh_C 04
+Breton_List 05
+Breton_SE 06
+Breton_ST 07
+French 13
+Walloon 14
+French_Creole_C 15
+French_Creole_D 16
+Spanish 20
+Portuguese 21
+Brazilian 22 
+
+
+-----------------
+MIN: 0.0
+ALPHAMIN: 0.15
+
+
+(Albanese Group) is Hybrid of (Groupe Persian Group) and (Latin Group)
+with degree of hybridization 0.501866 and LH= 122.226807
+
+--------------
+
+
+MIN: -2.4
+ALPHAMIN: 0.1
+
+(Armenian Group) is Hybrid of (Sanskrit Group) and (Greek Group) 
+with degree of hybridization 0.608901 and LH= 30.496094
+
+

@@ -1,0 +1,1 @@
+((English:2.1428,(Catalan:1.9435,(Breton_St:2.5486,Cornish:2.4514):1.8899):0.9493):0.6697,(French:0.8333,Italian:0.4167):0.7143,(Spanish:0.2976,Portuguese_St:0.9524):0.5357);

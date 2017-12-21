@@ -1,0 +1,1 @@
+(Old_Irish:4.8750,English:3.1250,(Cornish:1.8750,Breton_St:2.1250):0.8750);

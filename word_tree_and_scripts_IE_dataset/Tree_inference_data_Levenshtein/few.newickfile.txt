@@ -1,0 +1,1 @@
+(English:3.0278,((Övdalian:1.0625,((Old_Norse:0.0011,Old_Swedish:0.0011):0.9080,(Icelandic_St:0.0005,Faroese:0.0004):1.5904):0.1875):0.7000,(Stavangersk:1.5530,(Swedish:0.0001,(Danish:0.0000,Norwegian:0.0000):0.0001):1.7801):0.4224):1.5392,(French:3.1666,(Catalan:1.4849,(Portuguese_St:1.0000,(Italian:0.0001,Spanish:0.0001):0.9999):0.5152):2.2423):2.6724);

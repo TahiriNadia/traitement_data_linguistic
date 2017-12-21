@@ -1,0 +1,1 @@
+(English:0.0000,(Övdalian:0.0000,((Stavangersk:0.0000,(Norwegian:0.0000,Danish:0.0000):0.0000):0.0000,(Swedish:0.0000,Gutnish_Lau:0.0000):0.0000):0.0000):0.0006,(Danish_Fjolde:1.7334,(Old_Swedish:0.9269,(German:3.0313,(Old_Norse:0.4001,(Icelandic_St:0.0000,Faroese:0.0000):1.2668):0.6586):0.8372):1.9570):0.2658);

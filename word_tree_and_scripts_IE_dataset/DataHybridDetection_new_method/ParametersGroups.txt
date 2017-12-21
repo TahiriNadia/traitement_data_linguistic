@@ -1,0 +1,24 @@
+﻿MIN: 0.0
+ALPHAMIN: 0.15
+
+(Armenian Group) is Hybrid of (Albanese Group) and (Persian Group) 
+with degree of hybridization 0.186725 and LH= 29.078125
+
+Branch lengths 
+s71 9.918945
+s72 7.081055
+
+
+(Albanese Group) is Hybrid of (Sanskrit Group) and (Latin Group) 
+with degree of hybridization 0.501866 and LH= 122.226807
+
+----------------------------------
+
+Without Albanese
+
+MIN: -2.4
+ALPHAMIN: 0.1
+
+
+(Armenian Group) is Hybrid of (Persian Group) and (Greek group) 
+with degree of hybridization 0.608901 and LH= 30.496094

@@ -1,0 +1,65 @@
+---------------------------
+North Germanic group
+
+Trees loaded: 188
+Executing: compute consensus method=galled-network threshold='30.0';
+Consensus galled-network input trees:49
+Input splits from trees: 109
+After z-closure: 112
+After removal of partial splits: 49
+Consensus galled-network splits: 12
+not compatible
+Constructing optimal galled  network (taxa=8, splits=12): 7 taxa + outgrpup
+Number of clusters: 12
+Number of reticulations: 1
+Verifying that computed network is a galled network:
+Verified: ok
+Verifying that galled network represents all splits:
+Verified: 12 of 12
+Algorithm required 0.047 seconds
+
+---------------------------
+West Germanic group
+
+Trees loaded: 190
+Executing: compute consensus method=galled-network threshold='30.0';
+Consensus galled-network input trees:49
+Input splits from trees: 207
+After z-closure: 237
+After removal of partial splits: 76
+Consensus galled-network splits: 20
+not compatible
+Constructing optimal galled  network (taxa=9, splits=20): 8 taxa + outgrpup 
+Number of clusters: 20
+Creating additional edge: 1-7,11 -> 4; up=true
+Inserting new node, source node has indegree=1
+Number of reticulations: 3
+Verifying that computed network is a galled network:
+Verified: ok
+Verifying that galled network represents all splits:
+Verified: 20 of 20
+Algorithm required 0.047 seconds
+Executing: compute consensus method=galled-network threshold='30.0';
+Consensus galled-network input trees:49
+
+--------------------------
+Total of 84 IE languages
+
+Trees loaded: 200
+Executing: compute consensus method=galled-network threshold='75.0';
+Consensus galled-network input trees: 49
+Input splits from trees: 6176
+After z-closure: 11299
+After removal of partial splits: 5124
+Consensus galled-network splits: 101
+not compatible
+Constructing optimal galled  network (taxa=85, splits=101): 84 taxa + outgrpup 
+Number of clusters: 101
+WARNING: zero-weight output cluster: 9,45,46,53,55,56,74,78,81-84,87
+WARNING: zero-weight output cluster: 83,84,87
+Number of reticulations: 3
+Verifying that computed network is a galled network:
+Verified: ok
+Verifying that galled network represents all splits:
+Verified: 101 of 101
+Algorithm required 0.094 seconds

@@ -1,0 +1,1 @@
+(Stavangersk:3.3889,English:1.6111,(Old_Norse:0.4167,(Faroese:0.8333,Old_Swedish:2.5000):0.4167):2.0833);
