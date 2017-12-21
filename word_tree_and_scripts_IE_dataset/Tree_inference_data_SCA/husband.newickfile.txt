@@ -1,0 +1,1 @@
+(Faroese:4.6883,English:0.8617,(Iceland2c:0.0625,(Icelandic:0.0000,F2roese:0.0000):3.3975):0.6925);

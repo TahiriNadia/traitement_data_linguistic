@@ -1,0 +1,1 @@
+((Danish_Fj:0.8131,((Old_Norse:1.1200,(Icelandic:0.0379,Faroese:0.1619):1.0901):1.3803,(Övdalian:0.9654,Gutnish_L:0.4644):0.5647):1.0145):0.0000,(Danish:0.1178,(Old_Swedi:0.0000,Swedish:0.0000):0.2122):0.7656,(Norwegian:0.6454,(Stavanger:0.1725,English:0.2275):0.8598):0.6863);

@@ -1,0 +1,1 @@
+(Frisian:1.2175,Dutch_Lis:0.1525,(English:1.9025,French:1.2175):0.1025);

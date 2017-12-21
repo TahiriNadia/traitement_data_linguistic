@@ -1,0 +1,1 @@
+(Stavanger:0.0000,English:0.0000,(Old_Norse:0.2600,(Faroese:0.1250,Old_Swedi:0.1250):1.2050):2.1000);

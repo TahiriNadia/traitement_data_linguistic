@@ -1,0 +1,5 @@
+Tadzik	kæfidæn
+Swedish	'splitra
+English	splɪt
+Frisian	'splɪtsə
+Dutch_List	'splɛitə(n)
